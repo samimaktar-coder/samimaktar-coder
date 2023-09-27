@@ -16,7 +16,7 @@ Excited about delving into server-side technologies to create full-stack magic �
 📫 Let's Connect:
 Feel free to reach out to me via [Instagram](https://www.instagram.com/iam.samimaktar/) 📧.
 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/samimaktr/) 🔗.
-Follow my coding journey on Twitter: [Twitter](https://twitter.com/iamsamimaktar) 🐣.
+Follow my coding journey on Twitter: [Twitter](https://twitter.com/hellosamaktr) 🐣.
 
 <!---
 samimaktar-coder/samimaktar-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
