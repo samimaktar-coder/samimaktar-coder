@@ -1,3 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif">
+
 👋 Hello, I'm Samim Aktar! 👨‍💻
 
 🌐 Web Developer | ✨ Code Wizard
@@ -6,6 +10,7 @@
 Proficient in HTML, CSS, and JavaScript 💻.	
 Skilled in Tailwind CSS and Bootstrap for rapid and responsive UI development.
 Experienced with building interactive user interfaces using React JS ⚛️ .
+
 
 🌱 Always Learning:
 Currently exploring advanced React concepts 📚.
