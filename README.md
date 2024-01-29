@@ -18,7 +18,7 @@ Excited about delving into server-side technologies to create full-stack magic �
 
 🌟 I freelance in the digital world, creating awesome websites from cool ideas. Let's collaborate and make something crazier.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samimaktar-coder&layout=pie)](https://github.com/samimaktar-coder/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samimaktar-coder&layout=compact&theme=dark)
 
 📫 Let's Connect:
 Feel free to reach out to me via [Instagram](https://www.instagram.com/iam.samimaktar/) 📧.
